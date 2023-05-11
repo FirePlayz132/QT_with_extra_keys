@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["No-regrets", "robot", [148, 22, 83]],
+		["Crucifixion", "robot_bruh", [148, 22, 83]],
+		["Buzzsawlerant", "robotrage", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"kb",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "danger",
+
+	"storyName": "KB Revenge",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

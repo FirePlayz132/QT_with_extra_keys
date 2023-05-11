@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Deathmatch", "qt", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"kb_angry",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "danger",
+
+	"storyName": "KB Last Attempt",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

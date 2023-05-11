@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Cessation", "qt-kb", [34, 51, 68]],
+		["Consultation", "bigmonika", [34, 51, 68]]
+	],
+	
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "limo",
+
+	"storyName": "why you enabled this?",
+	"weekBefore": "week3",
+	"weekName": "Week 4",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

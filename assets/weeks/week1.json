@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Carefree", "qt", [146, 113, 253]],
+		["Careless", "qt_annoyed", [146, 113, 253]],
+		["Censory-overload", "robot", [146, 113, 253]],
+		["Termination", "robot", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "cute",
+
+	"storyName": "Cutie",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
