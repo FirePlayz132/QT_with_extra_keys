@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="qt_menu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Final_Idle instancia 10000" x="100" y="100" width="387" height="446" frameX="-37" frameY="-15" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10001" x="587" y="100" width="406" height="443" frameX="-20" frameY="-18" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10002" x="1093" y="100" width="421" height="451" frameX="-9" frameY="-11" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10003" x="100" y="651" width="430" height="455" frameX="0" frameY="-7" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10004" x="630" y="651" width="424" height="455" frameX="-2" frameY="-5" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10005" x="1154" y="651" width="414" height="454" frameX="-10" frameY="-6" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10006" x="100" y="1206" width="398" height="457" frameX="-21" frameY="-3" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10007" x="598" y="1206" width="396" height="460" frameX="-28" frameY="0" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10008" x="1094" y="1206" width="393" height="460" frameX="-31" frameY="0" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10009" x="100" y="1766" width="388" height="460" frameX="-36" frameY="0" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10010" x="588" y="1766" width="389" height="460" frameX="-35" frameY="0" frameWidth="430" frameHeight="462"/>
+	<SubTexture name="Final_Idle instancia 10011" x="588" y="1766" width="389" height="460" frameX="-35" frameY="0" frameWidth="430" frameHeight="462"/>
+</TextureAtlas>

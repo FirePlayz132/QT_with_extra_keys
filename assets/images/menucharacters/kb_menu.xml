@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kb_menu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KB copy instancia 10000" x="100" y="100" width="806" height="653" frameX="-100" frameY="-31" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10001" x="1006" y="100" width="810" height="656" frameX="-90" frameY="-28" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10002" x="1916" y="100" width="803" height="656" frameX="-88" frameY="-28" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10003" x="2819" y="100" width="803" height="658" frameX="-84" frameY="-26" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10004" x="100" y="858" width="805" height="669" frameX="-86" frameY="-15" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10005" x="1005" y="858" width="806" height="678" frameX="-95" frameY="-6" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10006" x="1911" y="858" width="806" height="681" frameX="-103" frameY="-3" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10007" x="2817" y="858" width="835" height="678" frameX="-77" frameY="-6" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10008" x="100" y="1639" width="867" height="684" frameX="-48" frameY="0" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10009" x="1067" y="1639" width="878" height="672" frameX="-41" frameY="-12" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10010" x="2045" y="1639" width="877" height="676" frameX="-38" frameY="-8" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10011" x="3022" y="1639" width="896" height="666" frameX="-27" frameY="-18" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10012" x="100" y="2423" width="935" height="656" frameX="-3" frameY="-28" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10013" x="1135" y="2423" width="941" height="653" frameX="-3" frameY="-31" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10014" x="2176" y="2423" width="925" height="653" frameX="-29" frameY="-31" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10015" x="100" y="3179" width="939" height="654" frameX="-1" frameY="-30" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10016" x="1139" y="3179" width="924" height="656" frameX="0" frameY="-28" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10017" x="2163" y="3179" width="906" height="654" frameX="-9" frameY="-30" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10018" x="100" y="3935" width="892" height="651" frameX="-16" frameY="-33" frameWidth="954" frameHeight="684"/>
+	<SubTexture name="KB copy instancia 10019" x="1092" y="3935" width="846" height="650" frameX="-59" frameY="-34" frameWidth="954" frameHeight="684"/>
+</TextureAtlas>

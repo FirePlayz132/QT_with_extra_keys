@@ -1,0 +1,10 @@
+{
+	"idle_anim": "KB_idleBabyRage instancia 1",
+	"image": "kb_angry_menu",
+	"position": [
+		380,
+		128
+	],
+	"scale": 0.5,
+	"confirm_anim": "M Dad Idle"
+}
