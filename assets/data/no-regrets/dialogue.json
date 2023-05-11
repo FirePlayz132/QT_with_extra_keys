@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\rAre you really back?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't want to hear your disgusting voice again, get out."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "BeepBo Skeepbe Ske bo pa bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "How was it not \"hard enough for you\"?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look, we'll do another one, but I'm not in the mood to hear your voice on a new song, so I'll sing one you've already heard."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		}
+	]
+}

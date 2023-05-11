@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello cutie!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You back!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, I'd like to forgive myself for the past week."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qtannoyed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\rand forgive me for now..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beep?"
+		}
+	]
+}

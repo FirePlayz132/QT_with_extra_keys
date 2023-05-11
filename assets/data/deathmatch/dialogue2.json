@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.1,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "so..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "you have used up all my energy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I guess I'm going to stop trying to kill you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "if not that, I will not try this time"
+		},
+		{
+			"speed": 0.14,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will do it for real."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeep bo hop ke pop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hah, my energy is solar, I was just winning some time to recharge something."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Prepare to die, stupid blue balls kid"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}

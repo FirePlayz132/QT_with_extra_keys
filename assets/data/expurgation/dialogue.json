@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*This song in story mode is completely broken, I recommend you play it in freeplay* -Marshal"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*I will give you a command to end the song once the song count starts.*"
+		},
+		{
+			"speed": 0.085,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Sorry for this...*"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "if (SONG.song.toLowerCase() == 'expurgation'){ endDeathmatch(); }"
+		}
+	]
+}

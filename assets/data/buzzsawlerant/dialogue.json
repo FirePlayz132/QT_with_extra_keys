@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "I'M FED UP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "WHY I CAN'T THIS PIECE OF SHIT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "NOW I DON'T CARE IF I MAKE YOU THIS VERY UNFAIR"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "I WILL KILL YOU"
+		},
+		{
+			"speed": 0.15,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Here and now."
+		}
+	]
+}

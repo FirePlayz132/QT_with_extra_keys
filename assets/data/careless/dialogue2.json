@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.165,
+			"portrait": "qtannoyed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Phase 2 error."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "qtannoyed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Human life still detected."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "qtannoyed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Moving to Phase 3."
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I have lost again, as always."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "\rI guess enough of your clown things is enough, now go."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skeep pa boo po pab"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Oh, what did you want to make it harder for you with the saws? That's why you came back, right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, one more."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "let's go"
+		}
+	]
+}
