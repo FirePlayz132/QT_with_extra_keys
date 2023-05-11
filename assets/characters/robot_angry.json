@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "KB_angryALT_idleBabyRage",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KB_angry_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-149
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KB_angry_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				315,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KB_angry_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				381,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KB_angry_Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robot_angry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "robotrage",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-350,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

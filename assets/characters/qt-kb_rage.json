@@ -1,0 +1,189 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				71,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "danceLeftNormal"
+		},
+		{
+			"offsets": [
+				30,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "danceRightNormal"
+		},
+		{
+			"offsets": [
+				157,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLeftTogether"
+		},
+		{
+			"offsets": [
+				84,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDownTogether"
+		},
+		{
+			"offsets": [
+				-208,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRightTogether"
+		},
+		{
+			"offsets": [
+				71,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUpTogether"
+		},
+		{
+			"offsets": [
+				41,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft-qt",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "danceLeftKB"
+		},
+		{
+			"offsets": [
+				-11,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight-qt",
+			"indices": [],
+			"name": "danceRightKB"
+		},
+		{
+			"offsets": [
+				20,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "singDownQT"
+		},
+		{
+			"offsets": [
+				45,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "singLeftQT"
+		},
+		{
+			"offsets": [
+				85,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "singUpQT"
+		},
+		{
+			"offsets": [
+				-34,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "singRightQT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kb_but_qt_interrumpt",
+	"position": [
+		-230,
+		0
+	],
+	"healthicon": "qt-kb_rage",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		255
+	],
+	"camera_position": [
+		-170,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
