@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="attack_alert_NEW.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alert0000" x="100" y="100" width="256" height="257"/>
+	<SubTexture name="alert0001" x="456" y="100" width="256" height="257"/>
+	<SubTexture name="alert0002" x="812" y="100" width="256" height="257"/>
+	<SubTexture name="alert0003" x="1168" y="100" width="256" height="257"/>
+	<SubTexture name="alert0004" x="1524" y="100" width="256" height="257"/>
+	<SubTexture name="alert0005" x="100" y="457" width="256" height="257"/>
+	<SubTexture name="kb_attack_animation_alert-double instancia 10000" x="456" y="457" width="379" height="278"/>
+	<SubTexture name="kb_attack_animation_alert-double instancia 10001" x="935" y="457" width="379" height="278"/>
+	<SubTexture name="kb_attack_animation_alert-double instancia 10002" x="1414" y="457" width="378" height="278" frameX="0" frameY="0" frameWidth="379" frameHeight="278"/>
+	<SubTexture name="kb_attack_animation_alert-double instancia 10003" x="100" y="835" width="378" height="278" frameX="0" frameY="0" frameWidth="379" frameHeight="278"/>
+	<SubTexture name="kb_attack_animation_alert-double instancia 10004" x="578" y="835" width="378" height="278" frameX="0" frameY="0" frameWidth="379" frameHeight="278"/>
+	<SubTexture name="kb_attack_animation_alert-double instancia 10005" x="1056" y="835" width="378" height="278" frameX="0" frameY="0" frameWidth="379" frameHeight="278"/>
+</TextureAtlas>
