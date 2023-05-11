@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kbdialog.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KB_Stop0000" x="100" y="100" width="369" height="320"/>
+	<SubTexture name="KB_angry0000" x="569" y="100" width="301" height="314"/>
+	<SubTexture name="KB_bruh0000" x="100" y="520" width="268" height="314"/>
+	<SubTexture name="KB_normal0000" x="468" y="520" width="306" height="314"/>
+</TextureAtlas>
