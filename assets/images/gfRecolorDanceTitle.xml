@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfRecolorDanceTitle.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfDance instancia 10000" x="100" y="100" width="716" height="641" frameX="-2" frameY="-14" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10001" x="916" y="100" width="720" height="641" frameX="0" frameY="-14" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10002" x="1736" y="100" width="720" height="639" frameX="0" frameY="-16" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10003" x="2556" y="100" width="716" height="639" frameX="-2" frameY="-16" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10004" x="100" y="841" width="716" height="642" frameX="-2" frameY="-13" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10005" x="916" y="841" width="716" height="642" frameX="-2" frameY="-13" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10006" x="1732" y="841" width="716" height="644" frameX="-2" frameY="-11" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10007" x="2548" y="841" width="716" height="655" frameX="-2" frameY="0" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10008" x="2548" y="841" width="716" height="655" frameX="-2" frameY="0" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10009" x="2548" y="841" width="716" height="655" frameX="-2" frameY="0" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10010" x="100" y="1596" width="716" height="655" frameX="-2" frameY="0" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10011" x="100" y="1596" width="716" height="655" frameX="-2" frameY="0" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10012" x="100" y="1596" width="716" height="655" frameX="-2" frameY="0" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10013" x="916" y="1596" width="716" height="655" frameX="-2" frameY="0" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10014" x="916" y="1596" width="716" height="655" frameX="-2" frameY="0" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10015" x="1732" y="1596" width="716" height="644" frameX="-2" frameY="-11" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10016" x="2548" y="1596" width="720" height="644" frameX="0" frameY="-11" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10017" x="100" y="2351" width="720" height="644" frameX="0" frameY="-11" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10018" x="920" y="2351" width="716" height="644" frameX="-2" frameY="-11" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10019" x="1736" y="2351" width="716" height="644" frameX="-2" frameY="-11" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10020" x="2552" y="2351" width="716" height="644" frameX="-2" frameY="-11" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10021" x="100" y="3095" width="716" height="646" frameX="-2" frameY="-9" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10022" x="916" y="3095" width="716" height="650" frameX="-2" frameY="-5" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10023" x="916" y="3095" width="716" height="650" frameX="-2" frameY="-5" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10024" x="916" y="3095" width="716" height="650" frameX="-2" frameY="-5" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10025" x="1732" y="3095" width="716" height="650" frameX="-2" frameY="-5" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10026" x="1732" y="3095" width="716" height="650" frameX="-2" frameY="-5" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10027" x="1732" y="3095" width="716" height="650" frameX="-2" frameY="-5" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10028" x="2548" y="3095" width="716" height="649" frameX="-2" frameY="-6" frameWidth="720" frameHeight="655"/>
+	<SubTexture name="gfDance instancia 10029" x="2548" y="3095" width="716" height="649" frameX="-2" frameY="-6" frameWidth="720" frameHeight="655"/>
+</TextureAtlas>
